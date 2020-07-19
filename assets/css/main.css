@@ -3226,9 +3226,12 @@ input, select, textarea {
 		/* margin-top: -1.3em; */
 		/* padding-bottom: 0px; */
 	  }
+	  #timeline section.year section:last-child {
+		margin-bottom: 0.5em;
+	  }
 	  #timeline section.year section {
 		position: relative;
-		padding-bottom: 1.25em;
+		padding-bottom: 1em;
 		margin-bottom: 2.2em;
 	  }
 	  #timeline section.year section h4 {
