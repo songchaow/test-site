@@ -3232,7 +3232,8 @@ input, select, textarea {
 	  #timeline section.year section {
 		position: relative;
 		padding-bottom: 1em;
-		margin-bottom: 2.2em;
+		margin-top: -1.3rem;
+		margin-bottom: 1.2em;
 	  }
 	  #timeline section.year section h4 {
 		position: relative;
